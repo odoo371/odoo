@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name' : 'Restriction ActionMenu Export & Favorite menu Import Records',
-    'version' : '1.0',
+    'version': '16.0.1.0.0',
     'summary': 'Restriction Button Export & Import',
     'sequence': -1,
     'description': """
