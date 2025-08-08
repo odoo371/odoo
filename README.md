@@ -24,7 +24,7 @@ Administrators can restrict these features on a per-model basis, ensuring users 
 1. Clone or place the module in your Odoo addons directory
 2. Install as a standard Odoo module:
    - Via Apps menu in Odoo interface, or
-   - Using Odoo command line: `-i restrict_export_import`
+   - Using Odoo command line: `-i ds_restrict_expimp`
 
 ## Configuration
 
