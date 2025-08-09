@@ -1,9 +1,10 @@
 =====================
-Treehouse - Modern Odoo Theme
+Restrict ActionMenu Export & Favorite Menu Import Records
 =====================
 
 .. meta::
-   :description: A clean, responsive Odoo theme with modern design for better user experience.
+   :description: In this module, there is a feature to restrict access to the action menu `export` and the favorite menu `import records` 
+based on the model by the user who is logged in to ODOO, this access restriction is flexible and very useful.
 
 Overview
 ========
