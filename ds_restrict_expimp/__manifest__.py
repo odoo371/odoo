@@ -12,7 +12,6 @@ In this module, there is a feature to restrict access to the action menu `export
 based on the model by the user who is logged in to ODOO, this access restriction is flexible and very useful.
 """,
     'author': 'Helmi Ananda Putra',
-    'category': 'Hidden/Tools',
     'depends' : ['base', 'base_import', 'web'],
     'data': [
         'views/res_users_views.xml',
