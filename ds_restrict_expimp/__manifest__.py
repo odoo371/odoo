@@ -19,7 +19,17 @@ based on the model by the user who is logged in to ODOO, this access restriction
     'license': 'OPL-1',  # Odoo Proprietary License v1.0
     'demo': [
     ],
-    'images': ['static/description/icon.png'],
+    'images': [
+        'static/description/icon.png',
+        'static/description/install_module_step1.png',
+        'static/description/install_module_step2.png',
+        'static/description/setup_restriction_step1.png',
+        'static/description/setup_restriction_step2.png',
+        'static/description/setup_restriction_step3.png',
+        'static/description/result_restriction_1.png',
+        'static/description/result_restriction_2.png',
+        'static/description/result_restriction_3.png'
+    ],
     'installable': True,
     'application': True,
     'assets': {
@@ -28,6 +38,6 @@ based on the model by the user who is logged in to ODOO, this access restriction
             'ds_restrict_expimp/static/src/components/*/*.xml',
         ],
     },
-    'price': 35.00,
+    'price': 8.82,
     'currency': 'USD',
 }
